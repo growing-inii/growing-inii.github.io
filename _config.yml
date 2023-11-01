@@ -17,7 +17,7 @@ title: Growing Log
 description: 내가 보려고 만든 개발자 노트
 baseurl: "growing-inii"
 url: "https://growing-inii.github.io"
-repository: growing-inii/growing-inii.github.io # for github-metadata
+repository: growing-inii/growing-inii # for github-metadata
 
 permalink: pretty
 
