@@ -13,11 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Docs
-description: A Jekyll theme for documentation
-# baseurl: "" # the subpath of your site, e.g. /blog
+title: growing-inii
+description: 내가 보려고 만든 개발 노트
 url: "https://growing-inii.github.io"
-repository: just-the-docs/just-the-docs # for github-metadata
+repository: growing-inii/growing-inii.github.io # for github-metadata
 
 permalink: pretty
 
